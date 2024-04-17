@@ -1,0 +1,17 @@
+header{
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+}
+.wrapper{
+  display: flex;
+  gap: 2rem;
+
+  .column-1{
+    max-width: 60%;
+  }
+
+  img{
+    max-width: 100%;
+  }
+}
